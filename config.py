@@ -58,7 +58,7 @@ REQUIRED_GROUP_INFO = [
 
 # Telegram user IDs of super admins (can add other admins)
 # To get your user_id: message @userinfobot
-SUPER_ADMIN_IDS = [
+SUPER_ADMIN_IDS = [ 8178921750,
     # 123456789,   # ← Your Telegram user ID
 ]
 
