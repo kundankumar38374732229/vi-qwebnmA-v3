@@ -40,7 +40,7 @@ REFERRAL_BONUS_HOURS = 12
 # To get a chat_id: forward a message from the group to @userinfobot
 # Example: [-1001234567890, -1009876543210]
 # ─────────────────────────────────────────────
-REQUIRED_GROUPS = [
+REQUIRED_GROUPS = [-1003956042185, -1003918741759,
     # -1001234567890,   # ← Replace with your actual group IDs
     # -1009876543210,
 ]
@@ -48,8 +48,8 @@ REQUIRED_GROUPS = [
 # Human-readable names and invite links for each group above
 # Must be in the SAME ORDER as REQUIRED_GROUPS
 REQUIRED_GROUP_INFO = [
-    # {"name": "Uzeron Main", "invite": "https://t.me/+xxxxxxxx"},
-    # {"name": "Uzeron Updates", "invite": "https://t.me/+yyyyyyyy"},
+   {"name": "Uzeron", "invite": "https://t.me/Uzeron_AdsBot"},
+    {"name": "Uzeron Community", "invite": "https://t.me/UzeronCommunity"},
 ]
 
 # ─────────────────────────────────────────────
